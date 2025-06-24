@@ -1,4 +1,4 @@
-# UFC
+# Jupyter Book Tutorial
 
 (Last updated: May 27, 2025)
 
